@@ -2,7 +2,7 @@
 Created this repository to save the problems of TCS Mockvita-2.
 
 
-Questions I have solved are:
+Question I have solved is:
 
 #**Digit Pairs:**
  
